@@ -1,4 +1,4 @@
-## Machine Learning Labs: École Polytechnique Master's Course
+## Machine Learning: École Polytechnique Master's Course
 
 ### Course Overview
 This repository contains the code and notebooks for the labs from a Machine Learning master's course at École Polytechnique. The course, taught by Professor Alain Durmus, covers various machine learning techniques and their applications.
